@@ -1,0 +1,76 @@
+
+
+#contenido1 {
+    background-color: red;
+    margin: 5px;
+    text-align: center;
+}
+
+#contenido2 {
+    background-color: gainsboro;
+    margin: 5px;
+    text-align: center;
+}
+
+#row1col1 {
+    background: green;
+
+}
+
+#row1col2 {
+    background: palegreen;
+
+}
+#row2 {
+    margin:5px;
+}
+#row1 {
+    margin:5px;
+
+}
+
+#row2 table td {
+    border: 1px black solid;
+    padding: 2px;
+}
+
+#row1col {
+    text-align: center;
+    align-content: center;
+}
+
+#contenido2 #row1col table {
+    text-align: center;
+
+}
+
+#contenido2 #row1col table td{
+    text-align: center;
+    /* border: 1px black solid; */
+
+}
+
+.table tbody {
+    display: block;
+    width: 100%;
+    height:200px;
+    overflow-y: auto;
+
+}
+
+thead  {
+    display: block;
+    width: 100%;
+    display:table;
+}
+
+table {
+    background-color: aqua;
+    /* width: 800px;
+     */
+}
+
+.table td {
+    border: 1px solid black;
+
+}
